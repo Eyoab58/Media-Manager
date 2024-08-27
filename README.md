@@ -22,4 +22,4 @@ This project is a Java-based application designed to simulate the operations of 
 
 1. **Clone the Repository**: Download or clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/media-rental-management.git
+   git clone https://github.com/eyoab58/media-rental-management.git
